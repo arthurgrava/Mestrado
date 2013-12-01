@@ -8,6 +8,13 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
+/**
+ * This class read N .bib files and compress all of them
+ * in one single file.
+ * 
+ * @author arthur
+ *
+ */
 public class ReadACM {
 
 	private final String DIRECTORY_URL;
